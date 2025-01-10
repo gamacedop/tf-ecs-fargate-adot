@@ -11,7 +11,7 @@ This repository provides a modular and reusable structure for managing infrastru
 ## Getting Started
 
 ### Prerequisites
-- Terraform v1.3+
+- Terraform v1.5+
 - AWS CLI configured with appropriate permissions
 - Docker (if building the application image locally)
 
