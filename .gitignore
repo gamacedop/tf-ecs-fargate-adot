@@ -1,0 +1,7 @@
+# Content of .gitignore
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfvars
+*.log
+*.bak
